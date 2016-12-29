@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\androidProject\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explosion3.wav",
+        "source": "D:\\androidProject\\MyBeatPlane1\\app\\src\\main\\res\\raw\\explosion3.wav"
+    },
+    {
+        "merged": "D:\\androidProject\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explosion.mp3",
+        "source": "D:\\androidProject\\MyBeatPlane1\\app\\src\\main\\res\\raw\\explosion.mp3"
+    },
+    {
+        "merged": "D:\\androidProject\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bigexplosion.wav",
+        "source": "D:\\androidProject\\MyBeatPlane1\\app\\src\\main\\res\\raw\\bigexplosion.wav"
+    },
+    {
+        "merged": "D:\\androidProject\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\button.wav",
+        "source": "D:\\androidProject\\MyBeatPlane1\\app\\src\\main\\res\\raw\\button.wav"
+    },
+    {
+        "merged": "D:\\androidProject\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\get_goods.wav",
+        "source": "D:\\androidProject\\MyBeatPlane1\\app\\src\\main\\res\\raw\\get_goods.wav"
+    },
+    {
+        "merged": "D:\\androidProject\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shoot.mp3",
+        "source": "D:\\androidProject\\MyBeatPlane1\\app\\src\\main\\res\\raw\\shoot.mp3"
+    },
+    {
+        "merged": "D:\\androidProject\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explosion2.wav",
+        "source": "D:\\androidProject\\MyBeatPlane1\\app\\src\\main\\res\\raw\\explosion2.wav"
+    }
+]

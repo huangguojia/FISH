@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Mingjing\Appdata\local\android\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\androidProject\MyBeatPlane1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_958314301b2706fb3b93e6390234ada03f7d344f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidProject\MyBeatPlane1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="628a3e9d26cb2624d6762dbbbffffdce9ebb3af5">
+        <dex dex="D:\androidProject\MyBeatPlane1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2f2e5309629d9505c161ca07c746cd970b361767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidProject\MyBeatPlane1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28a6937b9ede881fc226190a7d8719fd9b829ee5">
+        <dex dex="D:\androidProject\MyBeatPlane1\app\build\intermediates\pre-dexed\debug\instant-run_359c1a70eb91294b9ccf3b42eb8c171bd5db0d17.jar" />
+    </item>
+
+</items>
